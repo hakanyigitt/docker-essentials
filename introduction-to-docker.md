@@ -1,6 +1,6 @@
 #### Deploy Ama Nasıl?
 
-![[contaierized-os.png]]
+![Contaierized OS](images/contaierized-os.png)
 
 ### Docker'a Giriş
 
@@ -39,27 +39,27 @@ Geliştirme, test ve üretim ortamlarında uygulamaların tutarlı bir şekilde 
 
 * **Registry:** Görüntülerin depolandığı ve paylaşıldığı merkezi depolarıdır. Docker Hub en yaygın kullanılan kayıt deposudur.
 
-![[docker-foundations.png]]
+![Docker Foundations](images/docker-foundations.png)
 
 - **Dockerfile:** Görüntü oluşturmak için talimatları içeren metin dosyasıdır. Katmanlı yapı sayesinde verimli görüntü oluşturmayı sağlar.
 
 
-![[docker-image-processing.png]]
+![Docker Image Processing](images/docker-image-processing.png)
 
 ### Docker Mimarisi
 
 * **Docker Daemon (dockerd):** Arka planda çalışan ve Docker nesnelerini (görüntüler, konteynerler, ağlar hacimler) yöneten süreç
 
 
-![[docker-daemon.png]]
+![Docker Daemon](images/docker-daemon.png)
 
 * **Docker CLI (Komut Satırı Arayüzü):** Kullanıcıların Docker Daemon ile etkileşim kurmasını sağlar. docker komutu ile erişilir.
 
-![[docker-clı.png]]
+![Docker CLI](images/docker-clı.png)
 
 * **Docker Client:** Docker Daemon ile iletişim kuran ve kullanıcı isteklerini işleyen bileşen.
 
-![[docker-client.png]]
+![Docker Client](images/docker-client.png)
 
 ### Komutlar
 
@@ -103,6 +103,6 @@ Geliştirme, test ve üretim ortamlarında uygulamaların tutarlı bir şekilde 
 
 #### Örnek Dockerfile
 
-![[example-docker-file.png]]
+![Example Dockerfile](images/example-docker-file.png)
 
 
