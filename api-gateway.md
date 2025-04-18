@@ -6,7 +6,7 @@ API Geçidi, tüm istemci istekleri için arka uç hizmetlerine tek bir giriş n
 
 İstek yönlendime, birleştirme ve protokol çevirisini ele alarak istemci etkileşimlerini basitleştirir.
 
-![[api-gatewway.png]]
+![API Gateway](images/api-gatewway.png)
 
 ### Mikroservis Mimarisi İçindeki Rolü
 
@@ -37,9 +37,9 @@ API Geçidi, tüm istemci istekleri için arka uç hizmetlerine tek bir giriş n
 
 ### Popüler API Geçitleri
 
-![[popular-api-gateway-products.png]]
+![Popular API Gateway Products](images/popular-api-gateway-products.png)
 
 ### Kullanım Senaryoları
 
-![[api-gateway-use-case-example.png]]
+![API Gateway Use Case Example](images/api-gateway-use-case-example.png)
 
